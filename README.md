@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I am a Computer Science student passionate about t
 - 🎓 Computer Science Student
 - 🖥️ Passionate about programming and software development
 - 🌐 Explorer of new technologies and methodologies
-- 📚 Always seeking to learn and grow professionally
+
 
 
 
