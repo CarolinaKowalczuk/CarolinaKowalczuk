@@ -2,8 +2,8 @@ Welcome to my GitHub profile! I am a Computer Science student passionate about t
 
 - 👋 Hi, I’m @CarolinaKowalczuk
 - 🎓 Computer Science Student
-- 🖥️ Passionate about programming and software development
-- 🌐 Explorer of new technologies and methodologies
+- 🖥️ Explorer of new technologies and methodologies
+  
 
 
 
